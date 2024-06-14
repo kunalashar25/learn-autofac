@@ -1,0 +1,14 @@
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/bin/Debug/net8.0/leanr-autofac
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/bin/Debug/net8.0/leanr-autofac.deps.json
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/bin/Debug/net8.0/leanr-autofac.runtimeconfig.json
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/bin/Debug/net8.0/leanr-autofac.dll
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/bin/Debug/net8.0/leanr-autofac.pdb
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/obj/Debug/net8.0/leanr-autofac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/obj/Debug/net8.0/leanr-autofac.AssemblyInfoInputs.cache
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/obj/Debug/net8.0/leanr-autofac.AssemblyInfo.cs
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/obj/Debug/net8.0/leanr-autofac.csproj.CoreCompileInputs.cache
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/obj/Debug/net8.0/leanr-autofac.dll
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/obj/Debug/net8.0/refint/leanr-autofac.dll
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/obj/Debug/net8.0/leanr-autofac.pdb
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/obj/Debug/net8.0/leanr-autofac.genruntimeconfig.cache
+/Users/kashar/local/mySpace/leanr-autofac/leanr-autofac/obj/Debug/net8.0/ref/leanr-autofac.dll

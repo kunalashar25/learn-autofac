@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bL8tHrFnzHIfhPPqYYQ9fQJ3c5NhJ/plV/sqNCn481Moq8nj5XcSc9xlWAZfQ9cZg1HZX8ylm+mg3AxpeNRdfQ==",
+  "success": true,
+  "projectFilePath": "/Users/kashar/local/mySpace/learn-autofac/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kashar/.nuget/packages/autofac/8.0.0/autofac.8.0.0.nupkg.sha512",
+    "/Users/kashar/.nuget/packages/system.diagnostics.diagnosticsource/7.0.2/system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/bin/Debug/net8.0/ServiceApp.deps.json
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/bin/Debug/net8.0/ServiceApp.dll
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/bin/Debug/net8.0/ServiceApp.pdb
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/obj/Debug/net8.0/ServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/obj/Debug/net8.0/ServiceApp.AssemblyInfoInputs.cache
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/obj/Debug/net8.0/ServiceApp.AssemblyInfo.cs
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/obj/Debug/net8.0/ServiceApp.csproj.CoreCompileInputs.cache
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/obj/Debug/net8.0/ServiceApp.dll
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/obj/Debug/net8.0/refint/ServiceApp.dll
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/obj/Debug/net8.0/ServiceApp.pdb
+/Users/kashar/local/mySpace/learn-autofac/ServiceApp/obj/Debug/net8.0/ref/ServiceApp.dll

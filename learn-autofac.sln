@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceApp", "ServiceApp\ServiceApp.csproj", "{84F3F534-CFB7-4882-AFF7-C65F2E133BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{26E97106-F9CC-46C8-9818-E43A11CD941C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F3F534-CFB7-4882-AFF7-C65F2E133BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F3F534-CFB7-4882-AFF7-C65F2E133BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F3F534-CFB7-4882-AFF7-C65F2E133BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F3F534-CFB7-4882-AFF7-C65F2E133BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E97106-F9CC-46C8-9818-E43A11CD941C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E97106-F9CC-46C8-9818-E43A11CD941C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E97106-F9CC-46C8-9818-E43A11CD941C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E97106-F9CC-46C8-9818-E43A11CD941C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
